@@ -1,4 +1,4 @@
-Quizfreely is a free and open source studying tool.
+Quizfreely is a free and open-source studying tool.
 
 https://quizfreely.org
 
